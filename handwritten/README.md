@@ -1,0 +1,1 @@
+Add legible photos or scans of handwritten explanations for each fixed bug here before submitting. The images should describe the bug location, how it was found, its root cause, and the fix rationale. This placeholder is not a substitute for those notes.
